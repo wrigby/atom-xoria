@@ -1,0 +1,12 @@
+{
+    "name": "atom-xoria",
+    "theme": "syntax",
+    "version": "1.0.0",
+    "private": false,
+    "description": "xoria256 for Atom",
+    "repository": "https://github.com/kasoki/atom-xoria",
+    "license": "MIT",
+    "engines": {
+        "atom": ">0.50.0"
+    }
+}
