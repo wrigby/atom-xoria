@@ -2,4 +2,4 @@
 
 xoria256 for Atom
 
-![](screenshot.png)
+![](https://raw.github.com/kasoki/atom-xoria/master/screenshot.png)
